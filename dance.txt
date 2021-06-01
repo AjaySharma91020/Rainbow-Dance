@@ -1,4 +1,5 @@
 move left
 move right
-move up and down 
+move up and down
+Turn around
 repeat
