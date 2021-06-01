@@ -1,0 +1,4 @@
+move left
+move right
+move up and down 
+repeat
